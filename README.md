@@ -1,4 +1,4 @@
-# Sales Data Warehouse & Analytics Project using SQL Server
+# SQL Data Warehouse project for Sales Analytics
 
 This project demonstrates the design and implementation of a SQL-based data warehouse for sales analytics. 
 
@@ -55,10 +55,11 @@ data-warehouse-project/
 │
 ├── docs/                               # Project documentation and architecture details
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
-│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
-│   ├── data_models.drawio              # Draw.io file for data models (star schema)
+│   ├── data_flow_diagram.png           # Draw.io diagram for the data flow diagram
+|   ├── data_layers.pdf                 # Each layer's SOC(Separation Of Concerns)
+│   ├── data_model.png                  # Draw.io diagram for data model (star schema)
+│   ├── dwh_architecture.drawio         # Draw.io diagram shows the project's architecture
+│   ├── integration model               # Draw.io integration model diagram
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
