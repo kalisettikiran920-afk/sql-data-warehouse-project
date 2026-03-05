@@ -56,7 +56,6 @@ data-warehouse-project/
 ├── docs/                               # Project documentation and architecture details
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow_diagram.png           # Draw.io diagram for the data flow diagram
-|   ├── data_layers.pdf                 # Each layer's SOC(Separation Of Concerns)
 │   ├── data_model.png                  # Draw.io diagram for data model (star schema)
 │   ├── dwh_architecture.drawio         # Draw.io diagram shows the project's architecture
 │   ├── integration model               # Draw.io integration model diagram
